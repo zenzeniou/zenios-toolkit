@@ -63,7 +63,7 @@ The toolkit includes seven main components:
 Clone the repository:
 
 ```bash
-git clone git@gitlab.ti.howest.be:ti/2024-2025/s2/scripting-and-code-analysis/projects/zenios-zeniou/zenios-saca-toolkit-project.git
+git clone https://github.com/zenzeniou/zenios-toolkit.git
 
 cd zenios-saca-toolkit-project/
 ```
